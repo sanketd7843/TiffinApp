@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TiffinApp</string>
+    <string name="lorel">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</string>
+    <string name="dateMain">SAT, 2 JULY</string>
+    <string name="menu">MENU</string>
+    <string name="money">300 ₹</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="package30">Thirty Day Package</string>
+</resources>
